@@ -22,10 +22,10 @@ This repository represents one of my learning milestones in Python programming, 
 ## 📂 Project Structure
 
 speed_typing_test/
-│
-├── main.py # The main program containing all logic
-├── wpm_text.txt # External file containing sample texts
-└── README.md # Documentation (this file)
+
+1. main.py # The main program containing all logic
+2.  wpm_text.txt # External file containing sample texts
+3.   README.md # Documentation (this file)
 
 
 ### `main.py`
