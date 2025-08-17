@@ -89,20 +89,6 @@ This file contains the full implementation of the Aim Trainer game.
 
 ---
 
-## Example Gameplay
-
-- Targets spawn randomly across the screen.  
-- The player clicks them before they shrink.  
-- A top status bar updates in real time.  
-- At the end, performance stats are displayed like this:  
-
-```
-Time: 01:23.4
-Speed: 2.5 t/s
-Hits: 45
-Accuracy: 87.3%
-```
-
 ---
 
 ## Design Choices
@@ -113,14 +99,6 @@ Accuracy: 87.3%
 - **Performance Metrics**: Encourages self-improvement by tracking accuracy and speed.  
 
 ---
-
-## Possible Improvements
-
-- Add difficulty levels (increase spawn frequency or decrease target size).  
-- Add sound effects for hits and misses.  
-- Track high scores or maintain a leaderboard.  
-- Introduce different target types with unique effects.  
-- Add timed challenge mode where performance is measured in a fixed time.  
 
 ---
 
